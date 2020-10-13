@@ -1,0 +1,14 @@
+div {
+    margin: 0 auto;
+    width: fit-content;
+    font-size: 24px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+input {
+    font-size: 15pt;
+}
